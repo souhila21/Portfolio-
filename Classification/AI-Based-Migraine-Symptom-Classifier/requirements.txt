@@ -1,0 +1,18 @@
+# Core Data Science and Modeling
+pandas           
+numpy             
+scikit-learn      
+joblib           
+
+# Imbalance Handling
+imbalanced-learn
+
+# Interpretability
+shap
+
+# Streamlit Deployment and Utilities
+streamlit
+python-dotenv
+
+# Gemini API Integration
+google-genai

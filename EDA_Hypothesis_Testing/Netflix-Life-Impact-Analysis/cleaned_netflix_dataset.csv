@@ -1,0 +1,83 @@
+movie_title,genre,release_year,average_rating,number_of_reviews,review_highlights,minute_of_life-changing_insight,how_discovered,meaningful_advice_taken,suggested_to_friends/family_(y/n_%),insight_sec,insight_dec,suggest(%),suggest_flag,suggest_level,post2015
+The Pursuit of Happyness,Drama,2006,9.1,42000,"""Will Smith’s struggle hit hard",78:15 – Chris gets the job,Friend suggested,Persistence pays off.,92% Y,4695,Chris gets the job,92.0,True,High,False
+The Social Dilemma,Documentary,2020,8.2,35000,"""Eye-opening about tech addiction",12:40 – Algorithm manipulation,Social media,Limit screen time for mental health.,88% Y,760,Algorithm manipulation,88.0,True,High,True
+Parasite,Thriller/Drama,2019,9.3,50000,"""Masterpiece on class inequality",1:12:00 – The flood scene,Netflix recommendation,Privilege isn’t always visible.,85% Y,4320,The flood scene,85.0,True,Medium,True
+Paddington 2,Comedy/Family,2017,8.8,28000,"""Pure joy! Teaches kindness effortlessly",33:10 – Paddington’s jail speech,Friend suggested,Always choose kindness.,95% Y,1990,Paddington’s jail speech,95.0,True,High,True
+Inception,Sci-Fi,2010,9.0,45000,"""Mind-bending brilliance",1:05:22 – Cobb’s totem scene,Social media,Reality is subjective.,80% Y,3922,Cobb’s totem scene,80.0,True,Medium,False
+Lady Bird,Comedy/Drama,2017,8.6,22000,"""Perfect coming-of-age film",47:30 – Argument with mother,Netflix recommendation,Parents sacrifice more than we see.,76% Y,2850,Argument with mother,76.0,True,Medium,True
+13th,Documentary,2016,8.9,18000,"""Essential viewing on systemic racism",25:15 – Prison-industrial complex,Podcast mention,Justice requires awareness.,90% Y,1515,Prison-industrial complex,90.0,True,High,True
+The Half of It,Romance/Drama,2020,8.0,10000,"""Sweet LGBTQ+ story",1:01:05 – Ellie’s confession,Netflix recommendation,Love isn’t always straightforward.,70% Y,3665,Ellie’s confession,70.0,True,Low,True
+Whiplash,Drama,2014,9.2,38000,"""J",1:20:00 – Drumming finale,Film class,Greatness demands sacrifice.,82% Y,4800,Drumming finale,82.0,True,Medium,False
+Coco,Animation,2017,9.4,40000,"""Beautiful tribute to family and culture",1:15:10 – Remember Me scene,Friend suggested,Honor your roots.,97% Y,4510,Remember Me scene,97.0,True,High,True
+Silver Linings Playbook,Drama,2012,8.3,32000,"""Raw portrayal of mental health",1:10:00 – Dance competition scene,Book adaptation,Embrace imperfections.,81% Y,4200,Dance competition scene,81.0,True,Medium,False
+The Trial of the Chicago 7,Historical Drama,2020,8.6,29000,"""Timely and powerful",1:05:44 – Courtroom speech,Netflix recommendation,Stand up for what’s right.,87% Y,3944,Courtroom speech,87.0,True,High,True
+The Queen's Gambit,Drama,2020,8.9,65000,"""Anya Taylor-Joy is mesmerizing",1:30:00 – Final match,Word of mouth,Obsession has a price.,93% Y,5400,Final match,93.0,True,High,True
+I Lost My Body,Animation,2019,8.4,15000,"""Poetic and surreal",1:05:00 – Flashback to childhood,Film festival,Loss shapes identity.,79% Y,3900,Flashback to childhood,79.0,True,Medium,True
+The Florida Project,Drama,2017,8.2,19000,"""Heartbreakingly real",1:08:00 – Moonee’s final run,Critic review,Childhood joy persists in hardship.,73% Y,4080,Moonee’s final run,73.0,True,Medium,True
+Roma,Drama,2018,8.5,27000,"""Visually stunning",1:42:00 – Beach rescue,Film festival,Silent strength matters.,84% Y,6120,Beach rescue,84.0,True,Medium,True
+The Irishman,Crime/Drama,2019,8.8,39000,"""Epic Scorsese masterpiece",2:30:00 – Nursing home regret,Netflix original,Time erases everything.,75% Y,9000,Nursing home regret,75.0,True,Medium,True
+Marriage Story,Drama,2019,8.6,37000,"""Devastatingly honest",58:10 – Argument scene,Netflix recommendation,Communication saves relationships.,89% Y,3490,Argument scene,89.0,True,High,True
+Dolemite Is My Name,Comedy,2019,8.1,19000,"""Eddie Murphy’s comeback",1:12:00 – Theater triumph,Social media,Believe in your hustle.,83% Y,4320,Theater triumph,83.0,True,Medium,True
+The Ballad of Buster Scruggs,Western,2018,8.3,21000,"""Quirky and profound",42:00 – 'Meal Ticket' segment,Netflix original,Death is the ultimate equalizer.,71% Y,2520,'Meal Ticket' segment,71.0,True,Medium,True
+Da 5 Bloods,War/Drama,2020,8.4,18000,"""Spike Lee at his best",1:15:00 – Gold burial scene,Netflix original,Confront past demons.,77% Y,4500,Gold burial scene,77.0,True,Medium,True
+The Midnight Sky,Sci-Fi,2020,6.5,12000,"""Visually ambitious",1:10:00 – Radio transmission,Netflix recommendation,Isolation tests morality.,65% Y,4200,Radio transmission,65.0,True,Low,True
+Mank,Drama,2020,8.0,14000,"""Cinematography masterpiece",1:20:00 – Writer’s block,Netflix original,Art demands sacrifice.,68% Y,4800,Writer’s block,68.0,True,Low,True
+The Lost Daughter,Drama,2021,7.8,9000,"""Olivia Colman is electric",1:05:00 – Beach confession,Film critic,Motherhood is messy.,72% Y,3900,Beach confession,72.0,True,Medium,True
+Don't Look Up,Satire,2021,7.9,45000,"""Hilarious and terrifying",55:00 – News interview,Netflix original,Humanity ignores obvious threats.,79% Y,3300,News interview,79.0,True,Medium,True
+The Power of the Dog,Drama,2021,8.2,23000,"""Cumberbatch’s best role",1:50:00 – Twisted revelation,Netflix original,Toxicity hides in plain sight.,82% Y,6600,Twisted revelation,82.0,True,Medium,True
+The Dig,Historical Drama,2021,7.8,13000,"""Understated beauty",1:10:00 – Sutton Hoo discovery,Netflix recommendation,Legacy outlives us.,74% Y,4200,Sutton Hoo discovery,74.0,True,Medium,True
+Passing,Drama,2021,7.9,11000,"""Hauntingly beautiful",48:00 – Tea party,Netflix original,Identity is a prison.,70% Y,2880,Tea party,70.0,True,Low,True
+The Mitchells vs. The Machines,Animation,2021,8.7,35000,"""Hilarious and heartfelt",1:05:00 – Family reconciliation,Netflix original,Technology can’t replace love.,93% Y,3900,Family reconciliation,93.0,True,High,True
+Okja,Adventure,2017,8.0,25000,"""Touching animal rights story",1:15:00 – Okja’s escape,Netflix original,Corporate greed harms innocence.,81% Y,4500,Okja’s escape,81.0,True,Medium,True
+The Guilty,Thriller,2021,7.7,16000,"""Gripping single-location drama",1:02:00 – Truth revealed,Netflix original,Guilt distorts judgment.,75% Y,3720,Truth revealed,75.0,True,Medium,True
+The White Tiger,Drama,2021,8.0,22000,"""Scathing class critique",1:30:00 – Entrepreneurial rise,Netflix original,Opportunity requires ruthlessness.,78% Y,5400,Entrepreneurial rise,78.0,True,Medium,True
+Ma Rainey's Black Bottom,Drama,2020,8.5,18000,"""Boseman’s final masterpiece",1:10:00 – 'Burn' monologue,Netflix original,Artistic legacy matters.,85% Y,4200,'Burn' monologue,85.0,True,Medium,True
+The Two Popes,Drama,2019,8.2,20000,"""Hopkins & Pryce dazzle",1:20:00 – Confession scene,Netflix original,Forgiveness bridges divides.,83% Y,4800,Confession scene,83.0,True,Medium,True
+Extraction,Action,2020,7.8,48000,"""Non-stop adrenaline",43:00 – One-shot fight scene,Netflix recommendation,Courage means risking everything.,72% Y,2580,One-shot fight scene,72.0,True,Medium,True
+Enola Holmes,Mystery,2020,7.6,42000,"""Millie Bobby Brown charms",1:05:00 – Independence speech,Netflix original,Question societal norms.,80% Y,3900,Independence speech,80.0,True,Medium,True
+The Old Guard,Action,2020,7.3,38000,"""Fresh take on immortality",1:15:00 – Team revealed,Netflix original,Immortality is lonely.,68% Y,4500,Team revealed,68.0,True,Low,True
+Eurovision Song Contest: The Story of Fire Saga,Comedy,2020,7.0,29000,"""Joyfully absurd",1:10:00 – 'Jaja Ding Dong' scene,Netflix original,Passion outweighs talent.,65% Y,4200,'Jaja Ding Dong' scene,65.0,True,Low,True
+The Platform,Horror,2019,8.0,32000,"""Brutal allegory on greed",1:00:00 – Cake decision,Netflix recommendation,Selflessness breaks cycles.,77% Y,3600,Cake decision,77.0,True,Medium,True
+Uncut Gems,Thriller,2019,8.1,28000,"""Anxiety-inducing brilliance",1:30:00 – Bet payoff,Film critic,Greed destroys everything.,74% Y,5400,Bet payoff,74.0,True,Medium,True
+Beasts of No Nation,War/Drama,2015,8.4,21000,"""Devastating child soldier tale",1:15:00 – Commander’s betrayal,Netflix original,War steals childhood.,86% Y,4500,Commander’s betrayal,86.0,True,High,False
+To All the Boys I've Loved Before,Romance,2018,7.8,45000,"""Sweet teen romance",1:00:00 – Love letter scene,Netflix original,Vulnerability leads to love.,82% Y,3600,Love letter scene,82.0,True,Medium,True
+The Devil All the Time,Thriller,2020,7.7,19000,"""Gothic and grim",1:40:00 – Prayer showdown,Netflix original,Darkness begets darkness.,70% Y,6000,Prayer showdown,70.0,True,Low,True
+Gerald's Game,Horror,2017,7.9,23000,"""Claustrophobic terror",1:10:00 – Midnight man reveal,Stephen King adaptation,Confront trauma to survive.,79% Y,4200,Midnight man reveal,79.0,True,Medium,True
+The Babysitter,Horror/Comedy,2017,6.8,18000,"""Fun B-movie chaos",45:00 – Cult reveal,Netflix original,Trust your instincts.,61% Y,2700,Cult reveal,61.0,True,Low,True
+The Invitation,Horror,2016,7.3,15000,"""Slow-burn dread",1:15:00 – Dinner confrontation,Netflix recommendation,Grief can warp minds.,73% Y,4500,Dinner confrontation,73.0,True,Medium,True
+Bird Box,Thriller,2018,7.1,62000,"""Tense apocalypse",1:20:00 – Blindfolded river scene,Netflix original,Fear blinds worse than sight.,69% Y,4800,Blindfolded river scene,69.0,True,Low,True
+Paddleton,Drama,2019,7.9,12000,"""Quietly devastating",1:05:00 – Final road trip,Friend suggested,Friendship eases suffering.,84% Y,3900,Final road trip,84.0,True,Medium,True
+Always Be My Maybe,Romance,2019,7.1,31000,"""Charming diversity",1:00:00 – Restaurant duet,Netflix original,Old flames can rekindle.,75% Y,3600,Restaurant duet,75.0,True,Medium,True
+The Laundromat,Drama,2019,6.3,14000,"""Star-studded but messy",45:00 – Panama Papers reveal,Netflix original,Corruption is systemic.,58% Y,2700,Panama Papers reveal,58.0,True,Low,True
+The Kindergarten Teacher,Drama,2018,7.5,13000,"""Unsettling obsession",1:10:00 – Poetry reading,Film festival,Talent needs nurturing.,71% Y,4200,Poetry reading,71.0,True,Medium,True
+Private Life,Drama,2018,8.0,11000,"""Raw infertility struggle",1:20:00 – IVF decision,Netflix original,Parenthood isn’t everything.,77% Y,4800,IVF decision,77.0,True,Medium,True
+Calibre,Thriller,2018,7.8,16000,"""Rural nightmare fuel",1:00:00 – Hunting accident,Netflix original,One mistake can ruin lives.,80% Y,3600,Hunting accident,80.0,True,Medium,True
+I Don't Feel at Home in This World Anymore,Comedy/Crime,2017,7.3,14000,"""Quirky revenge tale",55:00 – Neighbor fight,Netflix original,Stand up for yourself.,72% Y,3300,Neighbor fight,72.0,True,Medium,True
+The Ritual,Horror,2017,7.3,18000,"""Creepy folk horror",1:10:00 – Creature reveal,Netflix recommendation,Guilt summons monsters.,74% Y,4200,Creature reveal,74.0,True,Medium,True
+The Discovery,Sci-Fi,2017,6.8,12000,"""Thought-provoking",50:00 – Afterlife reveal,Netflix original,Death isn’t an escape.,63% Y,3000,Afterlife reveal,63.0,True,Low,True
+First Match,Drama,2018,7.5,9000,"""Gritty sports drama",1:05:00 – Wrestling finale,Netflix original,Discipline overcomes chaos.,76% Y,3900,Wrestling finale,76.0,True,Medium,True
+Hold the Dark,Thriller,2018,6.9,11000,"""Atmospheric mystery",1:15:00 – Wolf attack,Friend suggested,Nature defies understanding.,68% Y,4500,Wolf attack,68.0,True,Low,True
+Shaft,Action,2019,6.5,17000,"""Cheesy fun",1:00:00 – Bar fight,Netflix original,Legacy is complicated.,60% Y,3600,Bar fight,60.0,True,Low,True
+Set It Up,Romance,2018,7.2,36000,"""Charming rom-com",1:05:00 – Elevator kiss,Netflix original,Love thrives on teamwork.,78% Y,3900,Elevator kiss,78.0,True,Medium,True
+The Perfect Date,Romance,2019,6.5,22000,"""Noah Centineo delivers",55:00 – Fake date fail,Netflix original,"Be yourself, not an act.",65% Y,3300,Fake date fail,65.0,True,Low,True
+Tallulah,Drama,2016,7.7,12000,"""Ellen Page shines",1:10:00 – Kidnapping confession,Netflix original,Motherhood isn’t instinctive.,73% Y,4200,Kidnapping confession,73.0,True,Medium,True
+A Christmas Prince,Romance,2017,5.9,18000,"""Cheesy holiday fluff",50:00 – Royal reveal,Netflix original,Fairytales can come true.,52% Y,3000,Royal reveal,52.0,True,Low,True
+Rim of the World,Sci-Fi,2019,5.8,15000,"""Kids save the world",1:00:00 – Alien attack,Netflix original,Courage isn’t age-dependent.,55% Y,3600,Alien attack,55.0,True,Low,True
+The Angel,Thriller,2018,7.0,11000,"""Based on true espionage",1:05:00 – Double-agent reveal,Netflix original,Loyalty is negotiable.,70% Y,3900,Double-agent reveal,70.0,True,Low,True
+Come Sunday,Drama,2018,7.2,10000,"""Powerful religious debate",1:20:00 – Sermon scene,Netflix original,Faith evolves.,75% Y,4800,Sermon scene,75.0,True,Medium,True
+Ravenous,Horror,2017,6.7,9000,"""Zombie apocalypse in Quebec",40:00 – Diner siege,Netflix recommendation,Survival requires adaptation.,62% Y,2400,Diner siege,62.0,True,Low,True
+The Land of Steady Habits,Drama,2018,6.5,8000,"""Midlife crisis tale",1:10:00 – Son’s overdose,Netflix original,Regret changes nothing.,60% Y,4200,Son’s overdose,60.0,True,Low,True
+Like Father,Comedy,2018,6.2,16000,"""Forgettable cruise comedy",55:00 – Father-daughter dance,Netflix original,Family bonds endure.,58% Y,3300,Father-daughter dance,58.0,True,Low,True
+Wine Country,Comedy,2019,6.0,19000,"""Poehler & friends riff",1:00:00 – Birthday toast,Netflix original,Friendship survives aging.,59% Y,3600,Birthday toast,59.0,True,Low,True
+Otherhood,Comedy,2019,5.8,12000,"""Mom invasion comedy",50:00 – Confrontation scene,Netflix original,Let kids live their lives.,53% Y,3000,Confrontation scene,53.0,True,Low,True
+Ibiza,Comedy,2018,5.9,10000,"""Party girls abroad",45:00 – DJ hookup,Netflix original,Live in the moment.,50% Y,2700,DJ hookup,50.0,True,Low,True
+The Week Of,Comedy,2018,5.5,13000,"""Sandler vs",1:00:00 – Wedding chaos,Netflix original,Weddings reveal truths.,48% Y,3600,Wedding chaos,48.0,True,Low,True
+The Polka King,Comedy,2017,6.3,9000,"""Blackly comic scam",1:05:00 – Ponzi scheme exposed,Netflix original,Greed fools everyone.,57% Y,3900,Ponzi scheme exposed,57.0,True,Low,True
+The Cloverfield Paradox,Sci-Fi,2018,5.8,31000,"""Messy franchise entry",1:10:00 – Alternate dimension,Netflix original,Tampering has consequences.,51% Y,4200,Alternate dimension,51.0,True,Low,True
+Mute,Sci-Fi,2018,5.4,14000,"""Neon noir misfire",1:20:00 – Underworld reveal,Netflix original,Silence isn’t always golden.,45% Y,4800,Underworld reveal,45.0,True,Low,True
+The Open House,Horror,2018,4.5,12000,"""Inept horror",1:00:00 – Empty house,Netflix original,Some doors should stay closed.,30% Y,3600,Empty house,30.0,True,Low,True
+The Last Days of American Crime,Action,2020,4.0,9000,"""Worst Netflix film?"" / ""Unwatchable",1:30:00 – Final heist,Netflix original,Crime doesn’t pay (literally).,20% Y,5400,Final heist,20.0,True,Low,True
+Klaus,Animation,2019,8.7,32000,"""Instant Christmas classic",1:05:00 – Gift delivery montage,Netflix original,Kindness sparks miracles.,94% Y,3900,Gift delivery montage,94.0,True,High,True
+Ma Rainey’s Black Bottom,Drama,2020,7.9,25000,"""Chadwick Boseman’s last role","1:20:00 – ""They Don’t Care"" monologue",Oscar buzz,Art demands sacrifice.,85% Y,4800,"""They Don’t Care"" monologue",85.0,True,Medium,True
+Piece of Women,Drama,2021,8.3,27000,"""Devastating childbirth scene",1:10:00 – Courtroom speech,Film festival,Grief changes everything.,76% Y,4200,Courtroom speech,76.0,True,Medium,True
+The Harder They Fall,Western,2021,7.6,18000,"""Stylish Black cowboy flick",1:20:00 – Final shootout,Netflix recommendation,Revenge is a loop.,73% Y,4800,Final shootout,73.0,True,Medium,True

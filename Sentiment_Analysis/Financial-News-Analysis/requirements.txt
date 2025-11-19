@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+scikit-learn
+joblib
+streamlit
+sentence_transformers
+imblearn
+imbalanced-learn
+google-generativeai
+dotenv
